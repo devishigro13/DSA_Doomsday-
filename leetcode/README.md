@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 1 Easy · 0 Medium · 0 Hard
+**2** problems solved — 2 Easy · 0 Medium · 0 Hard
 
 ## Contents
 
@@ -15,14 +15,16 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
 ### Medium (0)
 
@@ -35,11 +37,21 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (1)</summary>
+<summary>Array (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Binary Indexed Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
 </details>
 
@@ -49,6 +61,24 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Hash Table (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Segment Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
 </details>
 
@@ -64,11 +94,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (1)</summary>
+<summary>cpp (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
 </details>
 
@@ -76,4 +107,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |

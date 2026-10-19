@@ -1,11 +1,21 @@
 {
   "Array": [
-    "leetcode/2089-find-target-indices-after-sorting-array"
+    "leetcode/2089-find-target-indices-after-sorting-array",
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
   ],
   "Sorting": [
     "leetcode/2089-find-target-indices-after-sorting-array"
+  ],
+  "Hash Table": [
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+  ],
+  "Binary Indexed Tree": [
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+  ],
+  "Segment Tree": [
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
   ]
 }
