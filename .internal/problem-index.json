@@ -27,5 +27,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-19T14:38:11.130Z"
+  },
+  {
+    "folderId": "leetcode/0050-powx-n",
+    "frontendId": "50",
+    "title": "Pow(x, n)",
+    "slug": "powx-n",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-21T08:17:05.946Z"
   }
 ]

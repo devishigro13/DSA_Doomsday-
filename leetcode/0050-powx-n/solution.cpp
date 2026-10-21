@@ -1,0 +1,24 @@
+// Runtime: 0 ms
+// Memory: 8.5 MB
+
+class Solution {
+public:
+    double myPow(double x, int n) {
+        if(n==0) return 1.0;
+        // rule : x^(-n) = 1/x^n
+        long long power=n;
+        bool neg=false;
+        if(power<0){
+            neg=true;
+            power=-power;
+        }
+        double ans=1.0;
+        while(power>0){
+            if(power%2==1) ans=ans*x;
+            x=x*x;
+            power/=2;
+        }
+        if(neg) return 1.0/ans;
+        return ans;
+    }
+};

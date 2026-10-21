@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 2 Easy · 0 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
@@ -26,9 +27,11 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (0)
+### Medium (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 
 ### Hard (0)
 
@@ -74,6 +77,24 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Math (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Recursion (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Segment Tree (1)</summary>
 
 | # | Title | Difficulty |
@@ -94,10 +115,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (2)</summary>
+<summary>cpp (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
@@ -107,5 +129,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-21 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |

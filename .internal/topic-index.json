@@ -17,5 +17,11 @@
   ],
   "Segment Tree": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+  ],
+  "Math": [
+    "leetcode/0050-powx-n"
+  ],
+  "Recursion": [
+    "leetcode/0050-powx-n"
   ]
 }
