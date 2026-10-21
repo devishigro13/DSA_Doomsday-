@@ -1,0 +1,13 @@
+// Runtime: 13 ms
+// Memory: 7.5 MB
+
+class Solution {
+public:
+    int fib(int n) {
+        // if(n<0) return 0;
+        if(n==0) return 0;
+        if(n==1) return 1;
+        int sum=fib(n-1)+fib(n-2);
+        return sum;
+    }
+};

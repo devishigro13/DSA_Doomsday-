@@ -19,15 +19,23 @@
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
   ],
   "Math": [
-    "leetcode/0050-powx-n"
+    "leetcode/0050-powx-n",
+    "leetcode/0509-fibonacci-number"
   ],
   "Recursion": [
-    "leetcode/0050-powx-n"
+    "leetcode/0050-powx-n",
+    "leetcode/0509-fibonacci-number"
   ],
   "Two Pointers": [
     "leetcode/0344-reverse-string"
   ],
   "String": [
     "leetcode/0344-reverse-string"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0509-fibonacci-number"
+  ],
+  "Memoization": [
+    "leetcode/0509-fibonacci-number"
   ]
 }
