@@ -23,5 +23,11 @@
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
+  ],
+  "Two Pointers": [
+    "leetcode/0344-reverse-string"
+  ],
+  "String": [
+    "leetcode/0344-reverse-string"
   ]
 }

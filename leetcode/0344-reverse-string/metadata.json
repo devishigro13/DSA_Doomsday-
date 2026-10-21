@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "344",
+  "frontendId": "344",
+  "title": "Reverse String",
+  "slug": "reverse-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "26.9 MB",
+  "submissionId": "2177901241",
+  "acceptedAt": "2026-10-21T11:50:18.442Z",
+  "updatedAt": "2026-10-21T11:50:26.050Z",
+  "url": "https://leetcode.com/problems/reverse-string/",
+  "version": 1
+}

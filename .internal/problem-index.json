@@ -40,5 +40,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-21T08:17:05.946Z"
+  },
+  {
+    "folderId": "leetcode/0344-reverse-string",
+    "frontendId": "344",
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-21T11:50:18.442Z"
   }
 ]
