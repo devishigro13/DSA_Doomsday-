@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 13 ms |
-| Memory | 7.5 MB |
-| Submission Date | 2026-10-21T12:51:07.961Z |
+| Runtime | 11 ms |
+| Memory | 7.8 MB |
+| Submission Date | 2026-10-23T15:03:47.017Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -79,7 +79,6 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 class Solution {
 public:
     int fib(int n) {
-        // if(n<0) return 0;
         if(n==0) return 0;
         if(n==1) return 1;
         int sum=fib(n-1)+fib(n-2);

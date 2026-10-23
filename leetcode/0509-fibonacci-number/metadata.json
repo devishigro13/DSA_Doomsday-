@@ -13,11 +13,11 @@
   ],
   "companyTags": [],
   "language": "cpp",
-  "runtime": "13 ms",
-  "memory": "7.5 MB",
-  "submissionId": "2177943206",
-  "acceptedAt": "2026-10-21T12:51:07.961Z",
-  "updatedAt": "2026-10-21T12:51:08.922Z",
+  "runtime": "11 ms",
+  "memory": "7.8 MB",
+  "submissionId": "2179755174",
+  "acceptedAt": "2026-10-23T15:03:47.017Z",
+  "updatedAt": "2026-10-23T15:03:47.941Z",
   "url": "https://leetcode.com/problems/fibonacci-number/",
-  "version": 1
+  "version": 2
 }

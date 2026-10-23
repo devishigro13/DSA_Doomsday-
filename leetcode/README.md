@@ -173,7 +173,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-21 |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-21 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-21 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |
