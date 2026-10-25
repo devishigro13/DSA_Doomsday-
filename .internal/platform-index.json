@@ -5,6 +5,7 @@
     "leetcode/0050-powx-n",
     "leetcode/0344-reverse-string",
     "leetcode/0509-fibonacci-number",
-    "leetcode/2409-count-days-spent-together"
+    "leetcode/2409-count-days-spent-together",
+    "leetcode/4088-difference-between-peaks-and-valleys"
   ]
 }

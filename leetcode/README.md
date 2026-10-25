@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 5 Easy · 1 Medium · 0 Hard
+**7** problems solved — 6 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -20,10 +20,11 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -32,6 +33,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 
 ### Medium (1)
 
@@ -161,7 +163,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (6)</summary>
+<summary>cpp (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -171,6 +173,7 @@ _No problems solved yet._
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 
 </details>
 
@@ -178,6 +181,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-21 |

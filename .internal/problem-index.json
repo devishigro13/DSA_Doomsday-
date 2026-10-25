@@ -81,5 +81,15 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-25T14:50:36.439Z"
+  },
+  {
+    "folderId": "leetcode/4088-difference-between-peaks-and-valleys",
+    "frontendId": "4088",
+    "title": "Difference Between Peaks and Valleys",
+    "slug": "difference-between-peaks-and-valleys",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-10-25T15:05:37.730Z"
   }
 ]
