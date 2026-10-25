@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 6 Easy · 1 Medium · 0 Hard
+**8** problems solved — 6 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
+| 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
 
 ## By Difficulty
 
@@ -35,11 +36,12 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 
-### Medium (1)
+### Medium (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
+| 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
 
 ### Hard (0)
 
@@ -163,7 +165,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (7)</summary>
+<summary>cpp (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -174,6 +176,7 @@ _No problems solved yet._
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
+| 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
 
 </details>
 
@@ -181,6 +184,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |

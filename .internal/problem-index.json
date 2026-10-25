@@ -91,5 +91,15 @@
     "topics": [],
     "language": "cpp",
     "acceptedAt": "2026-10-25T15:05:37.730Z"
+  },
+  {
+    "folderId": "leetcode/4089-count-subarrays-with-loose-bounds",
+    "frontendId": "4089",
+    "title": "Count Subarrays With Loose Bounds",
+    "slug": "count-subarrays-with-loose-bounds",
+    "difficulty": "Medium",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-10-25T19:20:55.663Z"
   }
 ]

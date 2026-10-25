@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "4391",
+  "frontendId": "4089",
+  "title": "Count Subarrays With Loose Bounds",
+  "slug": "count-subarrays-with-loose-bounds",
+  "difficulty": "Medium",
+  "topics": [],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "10 ms",
+  "memory": "312.8 MB",
+  "submissionId": "2181691100",
+  "acceptedAt": "2026-10-25T19:20:55.663Z",
+  "updatedAt": "2026-10-25T19:20:57.254Z",
+  "url": "https://leetcode.com/problems/count-subarrays-with-loose-bounds/",
+  "version": 1
+}
