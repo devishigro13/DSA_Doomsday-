@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "4449",
+  "frontendId": "4092",
+  "title": "Binary Digit Score",
+  "slug": "binary-digit-score",
+  "difficulty": "Easy",
+  "topics": [],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "1 ms",
+  "memory": "8.8 MB",
+  "submissionId": "2181700093",
+  "acceptedAt": "2026-10-25T19:36:59.490Z",
+  "updatedAt": "2026-10-25T19:37:00.371Z",
+  "url": "https://leetcode.com/problems/binary-digit-score/",
+  "version": 1
+}

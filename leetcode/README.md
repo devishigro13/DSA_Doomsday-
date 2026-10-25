@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 6 Easy · 2 Medium · 0 Hard
+**9** problems solved — 7 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -22,10 +22,11 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
+| 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |  |
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -35,6 +36,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
+| 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
 ### Medium (2)
 
@@ -165,7 +167,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (8)</summary>
+<summary>cpp (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -177,6 +179,7 @@ _No problems solved yet._
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
+| 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |
 
 </details>
 
@@ -184,6 +187,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |

@@ -101,5 +101,15 @@
     "topics": [],
     "language": "cpp",
     "acceptedAt": "2026-10-25T19:20:55.663Z"
+  },
+  {
+    "folderId": "leetcode/4092-binary-digit-score",
+    "frontendId": "4092",
+    "title": "Binary Digit Score",
+    "slug": "binary-digit-score",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-10-25T19:36:59.490Z"
   }
 ]
