@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 4 Easy · 1 Medium · 0 Hard
+**6** problems solved — 5 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -18,17 +18,19 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
 ### Medium (1)
@@ -90,12 +92,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (2)</summary>
+<summary>Math (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 
 </details>
 
@@ -137,11 +140,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 
 </details>
 
@@ -157,7 +161,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (5)</summary>
+<summary>cpp (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -165,6 +169,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
 </details>
@@ -173,6 +178,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-21 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-21 |

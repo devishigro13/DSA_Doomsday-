@@ -68,5 +68,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-23T15:03:47.017Z"
+  },
+  {
+    "folderId": "leetcode/2409-count-days-spent-together",
+    "frontendId": "2409",
+    "title": "Count Days Spent Together",
+    "slug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-25T14:50:36.439Z"
   }
 ]

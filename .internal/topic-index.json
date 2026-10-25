@@ -20,7 +20,8 @@
   ],
   "Math": [
     "leetcode/0050-powx-n",
-    "leetcode/0509-fibonacci-number"
+    "leetcode/0509-fibonacci-number",
+    "leetcode/2409-count-days-spent-together"
   ],
   "Recursion": [
     "leetcode/0050-powx-n",
@@ -30,7 +31,8 @@
     "leetcode/0344-reverse-string"
   ],
   "String": [
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/2409-count-days-spent-together"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number"
