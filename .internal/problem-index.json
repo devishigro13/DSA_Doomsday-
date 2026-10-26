@@ -111,5 +111,18 @@
     "topics": [],
     "language": "cpp",
     "acceptedAt": "2026-10-25T19:36:59.490Z"
+  },
+  {
+    "folderId": "leetcode/0019-remove-nth-node-from-end-of-list",
+    "frontendId": "19",
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-26T17:54:48.373Z"
   }
 ]

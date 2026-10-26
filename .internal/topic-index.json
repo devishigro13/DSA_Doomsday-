@@ -28,7 +28,8 @@
     "leetcode/0509-fibonacci-number"
   ],
   "Two Pointers": [
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/0019-remove-nth-node-from-end-of-list"
   ],
   "String": [
     "leetcode/0344-reverse-string",
@@ -39,5 +40,8 @@
   ],
   "Memoization": [
     "leetcode/0509-fibonacci-number"
+  ],
+  "Linked List": [
+    "leetcode/0019-remove-nth-node-from-end-of-list"
   ]
 }

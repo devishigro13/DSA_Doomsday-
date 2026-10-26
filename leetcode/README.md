@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 7 Easy · 2 Medium · 0 Hard
+**10** problems solved — 7 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -38,10 +39,11 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (2)
+### Medium (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
 
@@ -94,6 +96,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Linked List (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 
 </details>
 
@@ -156,10 +167,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (1)</summary>
+<summary>Two Pointers (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 
 </details>
@@ -167,10 +179,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (9)</summary>
+<summary>cpp (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -187,6 +200,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
