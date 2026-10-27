@@ -9,6 +9,7 @@
     "leetcode/4088-difference-between-peaks-and-valleys",
     "leetcode/4089-count-subarrays-with-loose-bounds",
     "leetcode/4092-binary-digit-score",
-    "leetcode/0019-remove-nth-node-from-end-of-list"
+    "leetcode/0019-remove-nth-node-from-end-of-list",
+    "leetcode/3963-create-grid-with-exactly-one-path"
   ]
 }

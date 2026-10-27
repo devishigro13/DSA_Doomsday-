@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "4342",
+  "frontendId": "3963",
+  "title": "Create Grid With Exactly One Path",
+  "slug": "create-grid-with-exactly-one-path",
+  "difficulty": "Easy",
+  "topics": [],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "2 ms",
+  "memory": "11.9 MB",
+  "submissionId": "2183295928",
+  "acceptedAt": "2026-10-27T17:15:29.334Z",
+  "updatedAt": "2026-10-27T17:15:41.570Z",
+  "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+  "version": 1
+}

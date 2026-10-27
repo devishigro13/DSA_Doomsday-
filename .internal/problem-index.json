@@ -124,5 +124,15 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-26T17:54:48.373Z"
+  },
+  {
+    "folderId": "leetcode/3963-create-grid-with-exactly-one-path",
+    "frontendId": "3963",
+    "title": "Create Grid With Exactly One Path",
+    "slug": "create-grid-with-exactly-one-path",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-10-27T17:15:29.334Z"
   }
 ]

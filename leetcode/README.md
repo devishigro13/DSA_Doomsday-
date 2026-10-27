@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**10** problems solved — 7 Easy · 3 Medium · 0 Hard
+**11** problems solved — 8 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -21,13 +21,14 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |  |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |  |
 
 ## By Difficulty
 
-### Easy (7)
+### Easy (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -36,6 +37,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) |  |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
@@ -179,7 +181,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (10)</summary>
+<summary>cpp (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -190,6 +192,7 @@ _No problems solved yet._
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |
@@ -200,6 +203,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy | 2026-10-27 |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
