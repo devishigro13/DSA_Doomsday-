@@ -10,6 +10,7 @@
     "leetcode/4089-count-subarrays-with-loose-bounds",
     "leetcode/4092-binary-digit-score",
     "leetcode/0019-remove-nth-node-from-end-of-list",
-    "leetcode/3963-create-grid-with-exactly-one-path"
+    "leetcode/3963-create-grid-with-exactly-one-path",
+    "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"
   ]
 }

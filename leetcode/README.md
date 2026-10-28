@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**11** problems solved — 8 Easy · 3 Medium · 0 Hard
+**12** problems solved — 9 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |  |
@@ -28,13 +29,14 @@
 
 ## By Difficulty
 
-### Easy (8)
+### Easy (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) |  |
@@ -80,6 +82,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Database (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy |
 
 </details>
 
@@ -199,10 +210,20 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>mysql (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy |
+
+</details>
+
 ## Recently Solved
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy | 2026-10-27 |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |

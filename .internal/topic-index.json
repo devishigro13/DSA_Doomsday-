@@ -43,5 +43,8 @@
   ],
   "Linked List": [
     "leetcode/0019-remove-nth-node-from-end-of-list"
+  ],
+  "Database": [
+    "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"
   ]
 }
