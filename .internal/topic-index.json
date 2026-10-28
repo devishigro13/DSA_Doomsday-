@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/2089-find-target-indices-after-sorting-array",
-    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
+    "leetcode/3925-concatenate-array-with-reverse"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -46,5 +47,8 @@
   ],
   "Database": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"
+  ],
+  "Simulation": [
+    "leetcode/3925-concatenate-array-with-reverse"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 9 Easy · 3 Medium · 0 Hard
+**13** problems solved — 10 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | Array, Simulation |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |  |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
@@ -29,7 +30,7 @@
 
 ## By Difficulty
 
-### Easy (9)
+### Easy (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -39,6 +40,7 @@
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Array, Simulation |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) |  |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
@@ -58,12 +60,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 
 </details>
 
@@ -161,6 +164,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Simulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Sorting (1)</summary>
 
 | # | Title | Difficulty |
@@ -192,7 +204,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (11)</summary>
+<summary>cpp (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -203,6 +215,7 @@ _No problems solved yet._
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
@@ -223,6 +236,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | 2026-10-28 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy | 2026-10-27 |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |

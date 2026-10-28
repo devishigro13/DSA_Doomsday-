@@ -146,5 +146,18 @@
     ],
     "language": "mysql",
     "acceptedAt": "2026-10-28T19:09:05.890Z"
+  },
+  {
+    "folderId": "leetcode/3925-concatenate-array-with-reverse",
+    "frontendId": "3925",
+    "title": "Concatenate Array With Reverse",
+    "slug": "concatenate-array-with-reverse",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-28T19:15:06.270Z"
   }
 ]
