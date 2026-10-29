@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**14** problems solved — 10 Easy · 4 Medium · 0 Hard
+**15** problems solved — 10 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
@@ -46,13 +47,14 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
 
 ### Hard (0)
@@ -62,10 +64,11 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (3)</summary>
+<summary>Array (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
@@ -123,6 +126,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Greedy (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
@@ -203,11 +215,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
@@ -224,19 +237,20 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>cpp (13)</summary>
+<summary>cpp (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -245,6 +259,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -269,6 +284,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | 2026-10-28 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
