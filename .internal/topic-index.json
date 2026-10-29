@@ -15,7 +15,8 @@
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/3760-maximum-substrings-with-distinct-start"
   ],
   "Binary Indexed Tree": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -40,7 +41,8 @@
   "String": [
     "leetcode/0344-reverse-string",
     "leetcode/2409-count-days-spent-together",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/3760-maximum-substrings-with-distinct-start"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number"

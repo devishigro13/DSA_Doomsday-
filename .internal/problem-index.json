@@ -191,5 +191,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-29T07:23:56.265Z"
+  },
+  {
+    "folderId": "leetcode/3760-maximum-substrings-with-distinct-start",
+    "frontendId": "3760",
+    "title": "Maximum Substrings With Distinct Start",
+    "slug": "maximum-substrings-with-distinct-start",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-29T07:31:12.299Z"
   }
 ]

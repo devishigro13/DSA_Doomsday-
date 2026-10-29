@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "4087",
+  "frontendId": "3760",
+  "title": "Maximum Substrings With Distinct Start",
+  "slug": "maximum-substrings-with-distinct-start",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "28 ms",
+  "memory": "25.2 MB",
+  "submissionId": "2184531736",
+  "acceptedAt": "2026-10-29T07:31:12.299Z",
+  "updatedAt": "2026-10-29T07:31:13.197Z",
+  "url": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+  "version": 1
+}
