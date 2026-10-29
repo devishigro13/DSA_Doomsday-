@@ -159,5 +159,22 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-28T19:15:06.270Z"
+  },
+  {
+    "folderId": "leetcode/0451-sort-characters-by-frequency",
+    "frontendId": "451",
+    "title": "Sort Characters By Frequency",
+    "slug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-29T05:31:44.273Z"
   }
 ]

@@ -8,10 +8,12 @@
     "leetcode/2089-find-target-indices-after-sorting-array"
   ],
   "Sorting": [
-    "leetcode/2089-find-target-indices-after-sorting-array"
+    "leetcode/2089-find-target-indices-after-sorting-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Hash Table": [
-    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Binary Indexed Tree": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -34,7 +36,8 @@
   ],
   "String": [
     "leetcode/0344-reverse-string",
-    "leetcode/2409-count-days-spent-together"
+    "leetcode/2409-count-days-spent-together",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number"
@@ -50,5 +53,14 @@
   ],
   "Simulation": [
     "leetcode/3925-concatenate-array-with-reverse"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Bucket Sort": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Counting": [
+    "leetcode/0451-sort-characters-by-frequency"
   ]
 }

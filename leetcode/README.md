@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 10 Easy · 3 Medium · 0 Hard
+**14** problems solved — 10 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
@@ -45,12 +46,13 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
 
 ### Hard (0)
@@ -89,6 +91,24 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Bucket Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Database (1)</summary>
 
 | # | Title | Difficulty |
@@ -107,11 +127,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (1)</summary>
+<summary>Hash Table (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Heap (Priority Queue) (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -173,20 +203,22 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 
 </details>
@@ -204,13 +236,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (12)</summary>
+<summary>cpp (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
@@ -236,6 +269,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | 2026-10-28 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy | 2026-10-27 |
