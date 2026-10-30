@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 10 Easy · 6 Medium · 0 Hard
+**17** problems solved — 11 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
@@ -33,12 +34,13 @@
 
 ## By Difficulty
 
-### Easy (10)
+### Easy (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
@@ -66,10 +68,11 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (4)</summary>
+<summary>Array (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -87,10 +90,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Search (1)</summary>
+<summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
@@ -254,7 +258,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (15)</summary>
+<summary>cpp (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -263,6 +267,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
@@ -289,6 +294,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-10-30 |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | 2026-10-29 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
@@ -303,4 +309,3 @@ _No problems solved yet._
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-21 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-21 |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |

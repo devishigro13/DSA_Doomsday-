@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "792",
+  "frontendId": "704",
+  "title": "Binary Search",
+  "slug": "binary-search",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "31.3 MB",
+  "submissionId": "2185403792",
+  "acceptedAt": "2026-10-30T09:59:54.094Z",
+  "updatedAt": "2026-10-30T09:59:55.008Z",
+  "url": "https://leetcode.com/problems/binary-search/",
+  "version": 1
+}

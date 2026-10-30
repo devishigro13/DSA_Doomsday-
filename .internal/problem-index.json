@@ -204,5 +204,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-29T07:31:12.299Z"
+  },
+  {
+    "folderId": "leetcode/0704-binary-search",
+    "frontendId": "704",
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-30T09:59:54.094Z"
   }
 ]
