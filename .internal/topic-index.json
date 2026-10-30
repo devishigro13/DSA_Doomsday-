@@ -4,7 +4,8 @@
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
     "leetcode/3925-concatenate-array-with-reverse",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/0704-binary-search"
+    "leetcode/0704-binary-search",
+    "leetcode/0078-subsets"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -72,5 +73,11 @@
   ],
   "Greedy": [
     "leetcode/1877-minimize-maximum-pair-sum-in-array"
+  ],
+  "Backtracking": [
+    "leetcode/0078-subsets"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0078-subsets"
   ]
 }

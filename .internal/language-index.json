@@ -15,7 +15,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/3760-maximum-substrings-with-distinct-start",
-    "leetcode/0704-binary-search"
+    "leetcode/0704-binary-search",
+    "leetcode/0078-subsets"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"
