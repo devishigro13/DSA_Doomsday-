@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**18** problems solved — 11 Easy · 7 Medium · 0 Hard
+**19** problems solved — 11 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -51,13 +52,14 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Linked List, Two Pointers |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
@@ -70,11 +72,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -84,11 +87,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (1)</summary>
+<summary>Backtracking (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 
 </details>
 
@@ -112,11 +116,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bit Manipulation (1)</summary>
+<summary>Bit Manipulation (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 
 </details>
 
@@ -279,13 +284,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (17)</summary>
+<summary>cpp (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -316,6 +322,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-10-30 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-30 |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-10-30 |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | 2026-10-29 |
@@ -330,4 +337,3 @@ _No problems solved yet._
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-23 |
-| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-21 |

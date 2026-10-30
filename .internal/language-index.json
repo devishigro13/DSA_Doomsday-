@@ -16,7 +16,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/3760-maximum-substrings-with-distinct-start",
     "leetcode/0704-binary-search",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0090-subsets-ii"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"

@@ -231,5 +231,19 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-30T11:43:27.326Z"
+  },
+  {
+    "folderId": "leetcode/0090-subsets-ii",
+    "frontendId": "90",
+    "title": "Subsets II",
+    "slug": "subsets-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-30T13:27:42.738Z"
   }
 ]
