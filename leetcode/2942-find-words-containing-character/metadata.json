@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "3194",
+  "frontendId": "2942",
+  "title": "Find Words Containing Character",
+  "slug": "find-words-containing-character",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "2 ms",
+  "memory": "32.8 MB",
+  "submissionId": "2187206593",
+  "acceptedAt": "2026-11-01T17:58:47.834Z",
+  "updatedAt": "2026-11-01T17:58:48.705Z",
+  "url": "https://leetcode.com/problems/find-words-containing-character/",
+  "version": 1
+}

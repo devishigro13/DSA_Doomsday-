@@ -245,5 +245,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-31T16:46:04.857Z"
+  },
+  {
+    "folderId": "leetcode/2942-find-words-containing-character",
+    "frontendId": "2942",
+    "title": "Find Words Containing Character",
+    "slug": "find-words-containing-character",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-01T17:58:47.834Z"
   }
 ]

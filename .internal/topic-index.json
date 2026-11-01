@@ -6,7 +6,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/0704-binary-search",
     "leetcode/0078-subsets",
-    "leetcode/0090-subsets-ii"
+    "leetcode/0090-subsets-ii",
+    "leetcode/2942-find-words-containing-character"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -46,7 +47,8 @@
     "leetcode/0344-reverse-string",
     "leetcode/2409-count-days-spent-together",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/3760-maximum-substrings-with-distinct-start"
+    "leetcode/3760-maximum-substrings-with-distinct-start",
+    "leetcode/2942-find-words-containing-character"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number"
