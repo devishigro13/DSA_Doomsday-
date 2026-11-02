@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 12 Easy · 8 Medium · 0 Hard
+**21** problems solved — 13 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
+| 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
@@ -37,13 +38,14 @@
 
 ## By Difficulty
 
-### Easy (12)
+### Easy (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
+| 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
@@ -74,13 +76,14 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
+| 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -288,7 +291,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (19)</summary>
+<summary>cpp (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -300,6 +303,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
+| 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
@@ -327,6 +331,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-11-02 |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-10-31 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-30 |
@@ -341,4 +346,3 @@ _No problems solved yet._
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
-| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-25 |
