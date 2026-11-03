@@ -8,7 +8,8 @@
     "leetcode/0078-subsets",
     "leetcode/0090-subsets-ii",
     "leetcode/2942-find-words-containing-character",
-    "leetcode/1550-three-consecutive-odds"
+    "leetcode/1550-three-consecutive-odds",
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -33,7 +34,8 @@
   "Math": [
     "leetcode/0050-powx-n",
     "leetcode/0509-fibonacci-number",
-    "leetcode/2409-count-days-spent-together"
+    "leetcode/2409-count-days-spent-together",
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
   ],
   "Recursion": [
     "leetcode/0050-powx-n",

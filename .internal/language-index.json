@@ -19,7 +19,8 @@
     "leetcode/0078-subsets",
     "leetcode/0090-subsets-ii",
     "leetcode/2942-find-words-containing-character",
-    "leetcode/1550-three-consecutive-odds"
+    "leetcode/1550-three-consecutive-odds",
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"

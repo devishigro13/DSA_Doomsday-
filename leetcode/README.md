@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**21** problems solved — 13 Easy · 8 Medium · 0 Hard
+**22** problems solved — 14 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -29,6 +29,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | Array, String |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | Hash Table, String |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | Array, Simulation |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |  |
@@ -38,7 +39,7 @@
 
 ## By Difficulty
 
-### Easy (13)
+### Easy (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -51,6 +52,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Array, String |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Array, Simulation |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) |  |
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
@@ -76,7 +78,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (9)</summary>
+<summary>Array (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -88,6 +90,7 @@ _No problems solved yet._
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 
 </details>
@@ -206,13 +209,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (3)</summary>
+<summary>Math (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
 
@@ -291,7 +295,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (20)</summary>
+<summary>cpp (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -309,6 +313,7 @@ _No problems solved yet._
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy |
@@ -331,6 +336,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-02 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-11-02 |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
@@ -345,4 +351,3 @@ _No problems solved yet._
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium | 2026-10-25 |
-| 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy | 2026-10-25 |
