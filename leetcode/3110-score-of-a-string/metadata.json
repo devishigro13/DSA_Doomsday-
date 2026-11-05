@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "3379",
+  "frontendId": "3110",
+  "title": "Score of a String",
+  "slug": "score-of-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.8 MB",
+  "submissionId": "2190344367",
+  "acceptedAt": "2026-11-05T20:25:08.166Z",
+  "updatedAt": "2026-11-05T20:25:10.576Z",
+  "url": "https://leetcode.com/problems/score-of-a-string/",
+  "version": 1
+}

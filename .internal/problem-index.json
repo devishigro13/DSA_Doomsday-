@@ -283,5 +283,17 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-03T04:59:48.727Z"
+  },
+  {
+    "folderId": "leetcode/3110-score-of-a-string",
+    "frontendId": "3110",
+    "title": "Score of a String",
+    "slug": "score-of-a-string",
+    "difficulty": "Easy",
+    "topics": [
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-05T20:25:08.166Z"
   }
 ]
