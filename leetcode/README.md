@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 15 Easy · 8 Medium · 0 Hard
+**24** problems solved — 15 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -60,7 +61,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -68,6 +69,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
@@ -127,12 +129,30 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Binary Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Bit Manipulation (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Breadth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 
 </details>
 
@@ -285,6 +305,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
@@ -298,7 +327,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (22)</summary>
+<summary>cpp (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -306,6 +335,7 @@ _No problems solved yet._
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -340,6 +370,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-06 |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy | 2026-11-05 |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-02 |
@@ -354,4 +385,3 @@ _No problems solved yet._
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) | Easy | 2026-10-27 |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium | 2026-10-26 |
-| 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy | 2026-10-25 |
