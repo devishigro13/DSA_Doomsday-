@@ -90,12 +90,18 @@
     "leetcode/0090-subsets-ii"
   ],
   "Tree": [
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0104-maximum-depth-of-binary-tree"
   ],
   "Breadth-First Search": [
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0104-maximum-depth-of-binary-tree"
   ],
   "Binary Tree": [
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0104-maximum-depth-of-binary-tree"
+  ],
+  "Depth-First Search": [
+    "leetcode/0104-maximum-depth-of-binary-tree"
   ]
 }

@@ -309,5 +309,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-06T20:58:08.638Z"
+  },
+  {
+    "folderId": "leetcode/0104-maximum-depth-of-binary-tree",
+    "frontendId": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-07T21:40:12.845Z"
   }
 ]

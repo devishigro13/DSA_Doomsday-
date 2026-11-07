@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "104",
+  "frontendId": "104",
+  "title": "Maximum Depth of Binary Tree",
+  "slug": "maximum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "22 MB",
+  "submissionId": "2191586675",
+  "acceptedAt": "2026-11-07T21:40:12.845Z",
+  "updatedAt": "2026-11-07T21:40:14.823Z",
+  "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+  "version": 1
+}

@@ -23,6 +23,7 @@
     "leetcode/1550-three-consecutive-odds",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
     "leetcode/3110-score-of-a-string",
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0104-maximum-depth-of-binary-tree"
   ]
 }
