@@ -324,5 +324,19 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-07T21:40:12.845Z"
+  },
+  {
+    "folderId": "leetcode/0110-balanced-binary-tree",
+    "frontendId": "110",
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-08T14:16:52.733Z"
   }
 ]

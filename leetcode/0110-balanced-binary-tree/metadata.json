@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "110",
+  "frontendId": "110",
+  "title": "Balanced Binary Tree",
+  "slug": "balanced-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "22.9 MB",
+  "submissionId": "2191957788",
+  "acceptedAt": "2026-11-08T14:16:52.733Z",
+  "updatedAt": "2026-11-08T14:16:54.564Z",
+  "url": "https://leetcode.com/problems/balanced-binary-tree/",
+  "version": 1
+}
