@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "100",
+  "frontendId": "100",
+  "title": "Same Tree",
+  "slug": "same-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "12.8 MB",
+  "submissionId": "2192736216",
+  "acceptedAt": "2026-11-09T19:47:34.925Z",
+  "updatedAt": "2026-11-09T19:47:36.433Z",
+  "url": "https://leetcode.com/problems/same-tree/",
+  "version": 1
+}

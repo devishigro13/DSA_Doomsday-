@@ -369,5 +369,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-09T14:20:48.659Z"
+  },
+  {
+    "folderId": "leetcode/0100-same-tree",
+    "frontendId": "100",
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-09T19:47:34.925Z"
   }
 ]

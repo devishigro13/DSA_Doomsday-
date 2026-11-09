@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**28** problems solved — 18 Easy · 9 Medium · 1 Hard
+**29** problems solved — 19 Easy · 9 Medium · 1 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree |
@@ -45,10 +46,11 @@
 
 ## By Difficulty
 
-### Easy (18)
+### Easy (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
@@ -138,10 +140,11 @@
 </details>
 
 <details>
-<summary>Binary Tree (5)</summary>
+<summary>Binary Tree (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
@@ -161,10 +164,11 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (2)</summary>
+<summary>Breadth-First Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 
@@ -198,10 +202,11 @@
 </details>
 
 <details>
-<summary>Depth-First Search (4)</summary>
+<summary>Depth-First Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
@@ -342,10 +347,11 @@
 </details>
 
 <details>
-<summary>Tree (5)</summary>
+<summary>Tree (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
@@ -368,7 +374,7 @@
 ## By Language
 
 <details>
-<summary>cpp (27)</summary>
+<summary>cpp (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -376,6 +382,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
@@ -415,6 +422,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0100 | [Same Tree](0100-same-tree/README.md) | Easy | 2026-11-09 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
@@ -429,4 +437,3 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-10-30 |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | 2026-10-29 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-29 |
-| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
