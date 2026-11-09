@@ -338,5 +338,21 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-08T14:16:52.733Z"
+  },
+  {
+    "folderId": "leetcode/0124-binary-tree-maximum-path-sum",
+    "frontendId": "124",
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-09T14:18:34.067Z"
   }
 ]

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 17 Easy · 9 Medium · 0 Hard
+**27** problems solved — 17 Easy · 9 Medium · 1 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -79,9 +80,11 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
 
-### Hard (0)
+### Hard (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
 
 ## By Topic
 
@@ -133,13 +136,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Tree (3)</summary>
+<summary>Binary Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 
 </details>
 
@@ -191,20 +195,31 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (2)</summary>
+<summary>Depth-First Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>DP on Trees (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
+
+</details>
+
+<details>
+<summary>Dynamic Programming (2)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 
 </details>
@@ -322,13 +337,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Tree (3)</summary>
+<summary>Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 
 </details>
 
@@ -346,7 +362,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>cpp (25)</summary>
+<summary>cpp (26)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -357,6 +373,7 @@ _No problems solved yet._
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -391,6 +408,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | 2026-11-07 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-06 |
@@ -405,4 +423,3 @@ _No problems solved yet._
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | 2026-10-28 |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | 2026-10-28 |
