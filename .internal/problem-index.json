@@ -354,5 +354,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-09T14:18:34.067Z"
+  },
+  {
+    "folderId": "leetcode/0543-diameter-of-binary-tree",
+    "frontendId": "543",
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-09T14:20:48.659Z"
   }
 ]

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**27** problems solved — 17 Easy · 9 Medium · 1 Hard
+**28** problems solved — 18 Easy · 9 Medium · 1 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
@@ -44,7 +45,7 @@
 
 ## By Difficulty
 
-### Easy (17)
+### Easy (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -52,6 +53,7 @@
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
@@ -136,7 +138,7 @@
 </details>
 
 <details>
-<summary>Binary Tree (4)</summary>
+<summary>Binary Tree (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -144,6 +146,7 @@
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 
 </details>
 
@@ -195,22 +198,24 @@
 </details>
 
 <details>
-<summary>Depth-First Search (3)</summary>
+<summary>Depth-First Search (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>DP on Trees (1)</summary>
+<summary>DP on Trees (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 
 </details>
 
@@ -337,7 +342,7 @@
 </details>
 
 <details>
-<summary>Tree (4)</summary>
+<summary>Tree (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -345,6 +350,7 @@
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 
 </details>
 
@@ -362,7 +368,7 @@
 ## By Language
 
 <details>
-<summary>cpp (26)</summary>
+<summary>cpp (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -377,6 +383,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -408,6 +415,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | 2026-11-07 |
@@ -422,4 +430,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | 2026-10-29 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-29 |
-| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy | 2026-10-28 |
