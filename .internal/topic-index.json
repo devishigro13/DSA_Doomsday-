@@ -35,7 +35,8 @@
     "leetcode/0050-powx-n",
     "leetcode/0509-fibonacci-number",
     "leetcode/2409-count-days-spent-together",
-    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
+    "leetcode/3789-minimum-cost-to-acquire-required-items"
   ],
   "Recursion": [
     "leetcode/0050-powx-n",
@@ -80,7 +81,8 @@
     "leetcode/0451-sort-characters-by-frequency"
   ],
   "Greedy": [
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/3789-minimum-cost-to-acquire-required-items"
   ],
   "Backtracking": [
     "leetcode/0078-subsets",
