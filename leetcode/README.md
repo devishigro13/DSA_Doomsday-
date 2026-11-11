@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**30** problems solved — 19 Easy · 10 Medium · 1 Hard
+**31** problems solved — 19 Easy · 11 Medium · 1 Hard
 
 ## Contents
 
@@ -44,6 +44,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |  |
+| 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium |  |
 
 ## By Difficulty
 
@@ -71,7 +72,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -85,6 +86,7 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Math, Greedy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
+| 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) |  |
 
 ### Hard (1)
 
@@ -378,7 +380,7 @@
 ## By Language
 
 <details>
-<summary>cpp (29)</summary>
+<summary>cpp (30)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -411,6 +413,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |
+| 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium |
 
 </details>
 
@@ -427,6 +430,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | 2026-11-11 |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy | 2026-11-09 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |
@@ -441,4 +445,3 @@
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-30 |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-10-30 |
-| 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | 2026-10-29 |

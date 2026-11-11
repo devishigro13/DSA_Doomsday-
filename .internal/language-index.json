@@ -28,7 +28,8 @@
     "leetcode/0124-binary-tree-maximum-path-sum",
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0100-same-tree",
-    "leetcode/3789-minimum-cost-to-acquire-required-items"
+    "leetcode/3789-minimum-cost-to-acquire-required-items",
+    "leetcode/4106-find-mismatched-segments-between-two-strings"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"

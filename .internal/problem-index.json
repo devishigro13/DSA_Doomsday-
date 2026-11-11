@@ -397,5 +397,15 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-11T18:24:19.306Z"
+  },
+  {
+    "folderId": "leetcode/4106-find-mismatched-segments-between-two-strings",
+    "frontendId": "4106",
+    "title": "Find Mismatched Segments Between Two Strings",
+    "slug": "find-mismatched-segments-between-two-strings",
+    "difficulty": "Medium",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-11-11T18:50:04.151Z"
   }
 ]

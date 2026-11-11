@@ -1,0 +1,18 @@
+{
+  "platform": "leetcode",
+  "problemId": "4432",
+  "frontendId": "4106",
+  "title": "Find Mismatched Segments Between Two Strings",
+  "slug": "find-mismatched-segments-between-two-strings",
+  "difficulty": "Medium",
+  "topics": [],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "1 ms",
+  "memory": "13.1 MB",
+  "submissionId": "2194122924",
+  "acceptedAt": "2026-11-11T18:50:04.151Z",
+  "updatedAt": "2026-11-11T18:50:06.026Z",
+  "url": "https://leetcode.com/problems/find-mismatched-segments-between-two-strings/",
+  "version": 1
+}
