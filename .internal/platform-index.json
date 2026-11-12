@@ -31,6 +31,7 @@
     "leetcode/0100-same-tree",
     "leetcode/3789-minimum-cost-to-acquire-required-items",
     "leetcode/4106-find-mismatched-segments-between-two-strings",
-    "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray"
+    "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "leetcode/4102-count-valid-substrings-i"
   ]
 }

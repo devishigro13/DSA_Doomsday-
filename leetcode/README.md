@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**32** problems solved — 20 Easy · 11 Medium · 1 Hard
+**33** problems solved — 20 Easy · 12 Medium · 1 Hard
 
 ## Contents
 
@@ -45,6 +45,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |  |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |  |
+| 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium |  |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium |  |
 
 ## By Difficulty
@@ -74,7 +75,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (11)
+### Medium (12)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -88,6 +89,7 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Math, Greedy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
+| 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) |  |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) |  |
 
 ### Hard (1)
@@ -383,7 +385,7 @@
 ## By Language
 
 <details>
-<summary>cpp (31)</summary>
+<summary>cpp (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -417,6 +419,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) | Easy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) | Medium |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) | Easy |
+| 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium |
 
 </details>
@@ -434,6 +437,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-12 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | 2026-11-11 |
@@ -448,4 +452,3 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-02 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-11-02 |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
-| 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-30 |

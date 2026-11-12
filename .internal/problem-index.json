@@ -419,5 +419,15 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-12T06:36:50.442Z"
+  },
+  {
+    "folderId": "leetcode/4102-count-valid-substrings-i",
+    "frontendId": "4102",
+    "title": "Count Valid Substrings I",
+    "slug": "count-valid-substrings-i",
+    "difficulty": "Medium",
+    "topics": [],
+    "language": "cpp",
+    "acceptedAt": "2026-11-12T14:25:39.268Z"
   }
 ]
