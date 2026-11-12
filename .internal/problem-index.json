@@ -407,5 +407,17 @@
     "topics": [],
     "language": "cpp",
     "acceptedAt": "2026-11-11T18:50:04.151Z"
+  },
+  {
+    "folderId": "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "frontendId": "3105",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "topics": [
+      "Array"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-12T06:36:50.442Z"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "3372",
+  "frontendId": "3105",
+  "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+  "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "27.7 MB",
+  "submissionId": "2194400538",
+  "acceptedAt": "2026-11-12T06:36:50.442Z",
+  "updatedAt": "2026-11-12T06:36:52.471Z",
+  "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+  "version": 1
+}

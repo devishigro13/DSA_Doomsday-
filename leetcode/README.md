@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**31** problems solved — 19 Easy · 11 Medium · 1 Hard
+**32** problems solved — 20 Easy · 11 Medium · 1 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | Array, String |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Array |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy | String |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | Hash Table, String |
@@ -48,7 +49,7 @@
 
 ## By Difficulty
 
-### Easy (19)
+### Easy (20)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -65,6 +66,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Array, String |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Array |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | String |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Array, Simulation |
@@ -97,7 +99,7 @@
 ## By Topic
 
 <details>
-<summary>Array (10)</summary>
+<summary>Array (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -109,6 +111,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 
@@ -380,7 +383,7 @@
 ## By Language
 
 <details>
-<summary>cpp (30)</summary>
+<summary>cpp (31)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -404,6 +407,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium |
@@ -430,6 +434,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | 2026-11-11 |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy | 2026-11-09 |
@@ -444,4 +449,3 @@
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-11-02 |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-30 |
-| 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-10-30 |
