@@ -1,5 +1,5 @@
-// Runtime: 11 ms
-// Memory: 22 MB
+// Runtime: 17 ms
+// Memory: 21.8 MB
 
 class Solution {
 public:
