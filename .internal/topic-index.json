@@ -10,7 +10,8 @@
     "leetcode/2942-find-words-containing-character",
     "leetcode/1550-three-consecutive-odds",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
-    "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray"
+    "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "leetcode/3364-minimum-positive-sum-subarray"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -124,5 +125,11 @@
   "DP on Trees": [
     "leetcode/0124-binary-tree-maximum-path-sum",
     "leetcode/0543-diameter-of-binary-tree"
+  ],
+  "Sliding Window": [
+    "leetcode/3364-minimum-positive-sum-subarray"
+  ],
+  "Prefix Sum": [
+    "leetcode/3364-minimum-positive-sum-subarray"
   ]
 }

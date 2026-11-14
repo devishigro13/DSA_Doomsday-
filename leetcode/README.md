@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**33** problems solved — 20 Easy · 12 Medium · 1 Hard
+**34** problems solved — 21 Easy · 12 Medium · 1 Hard
 
 ## Contents
 
@@ -37,6 +37,7 @@
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | Array, String |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Array |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy | String |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy | Array, Sliding Window, Prefix Sum |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium | Hash Table, String |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | Math, Greedy |
@@ -50,7 +51,7 @@
 
 ## By Difficulty
 
-### Easy (20)
+### Easy (21)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -69,6 +70,7 @@
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Array, String |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Array |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | String |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Array, Sliding Window, Prefix Sum |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Array, Simulation |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/README.md) |  |
@@ -101,7 +103,7 @@
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -114,6 +116,7 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
 
@@ -305,6 +308,15 @@
 </details>
 
 <details>
+<summary>Prefix Sum (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Recursion (2)</summary>
 
 | # | Title | Difficulty |
@@ -329,6 +341,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Sliding Window (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy |
 
 </details>
 
@@ -385,7 +406,7 @@
 ## By Language
 
 <details>
-<summary>cpp (32)</summary>
+<summary>cpp (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -411,6 +432,7 @@
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium |
@@ -437,6 +459,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy | 2026-11-14 |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-13 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
@@ -451,4 +474,3 @@
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-02 |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | 2026-11-02 |
-| 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | 2026-11-01 |
