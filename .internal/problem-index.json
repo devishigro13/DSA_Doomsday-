@@ -473,5 +473,21 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-16T18:24:37.168Z"
+  },
+  {
+    "folderId": "leetcode/0257-binary-tree-paths",
+    "frontendId": "257",
+    "title": "Binary Tree Paths",
+    "slug": "binary-tree-paths",
+    "difficulty": "Easy",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-16T18:57:22.755Z"
   }
 ]

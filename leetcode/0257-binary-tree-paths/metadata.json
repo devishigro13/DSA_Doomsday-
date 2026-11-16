@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "257",
+  "frontendId": "257",
+  "title": "Binary Tree Paths",
+  "slug": "binary-tree-paths",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "1 ms",
+  "memory": "18.8 MB",
+  "submissionId": "2197547993",
+  "acceptedAt": "2026-11-16T18:57:22.755Z",
+  "updatedAt": "2026-11-16T18:57:24.863Z",
+  "url": "https://leetcode.com/problems/binary-tree-paths/",
+  "version": 1
+}

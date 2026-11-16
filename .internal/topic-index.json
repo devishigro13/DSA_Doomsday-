@@ -55,7 +55,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/3760-maximum-substrings-with-distinct-start",
     "leetcode/2942-find-words-containing-character",
-    "leetcode/3110-score-of-a-string"
+    "leetcode/3110-score-of-a-string",
+    "leetcode/0257-binary-tree-paths"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number",
@@ -88,7 +89,8 @@
   ],
   "Backtracking": [
     "leetcode/0078-subsets",
-    "leetcode/0090-subsets-ii"
+    "leetcode/0090-subsets-ii",
+    "leetcode/0257-binary-tree-paths"
   ],
   "Bit Manipulation": [
     "leetcode/0078-subsets",
@@ -102,7 +104,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0100-same-tree",
     "leetcode/0226-invert-binary-tree",
-    "leetcode/0112-path-sum"
+    "leetcode/0112-path-sum",
+    "leetcode/0257-binary-tree-paths"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -119,7 +122,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0100-same-tree",
     "leetcode/0226-invert-binary-tree",
-    "leetcode/0112-path-sum"
+    "leetcode/0112-path-sum",
+    "leetcode/0257-binary-tree-paths"
   ],
   "Depth-First Search": [
     "leetcode/0104-maximum-depth-of-binary-tree",
@@ -128,7 +132,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0100-same-tree",
     "leetcode/0226-invert-binary-tree",
-    "leetcode/0112-path-sum"
+    "leetcode/0112-path-sum",
+    "leetcode/0257-binary-tree-paths"
   ],
   "DP on Trees": [
     "leetcode/0124-binary-tree-maximum-path-sum",
