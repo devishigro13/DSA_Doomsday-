@@ -34,6 +34,7 @@
     "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
     "leetcode/4102-count-valid-substrings-i",
     "leetcode/3364-minimum-positive-sum-subarray",
-    "leetcode/0226-invert-binary-tree"
+    "leetcode/0226-invert-binary-tree",
+    "leetcode/0112-path-sum"
   ]
 }

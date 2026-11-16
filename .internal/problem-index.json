@@ -458,5 +458,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-16T13:11:06.551Z"
+  },
+  {
+    "folderId": "leetcode/0112-path-sum",
+    "frontendId": "112",
+    "title": "Path Sum",
+    "slug": "path-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-16T18:24:37.168Z"
   }
 ]
