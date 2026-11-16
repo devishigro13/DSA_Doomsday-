@@ -100,12 +100,14 @@
     "leetcode/0110-balanced-binary-tree",
     "leetcode/0124-binary-tree-maximum-path-sum",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0100-same-tree"
+    "leetcode/0100-same-tree",
+    "leetcode/0226-invert-binary-tree"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
     "leetcode/0104-maximum-depth-of-binary-tree",
-    "leetcode/0100-same-tree"
+    "leetcode/0100-same-tree",
+    "leetcode/0226-invert-binary-tree"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -113,14 +115,16 @@
     "leetcode/0110-balanced-binary-tree",
     "leetcode/0124-binary-tree-maximum-path-sum",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0100-same-tree"
+    "leetcode/0100-same-tree",
+    "leetcode/0226-invert-binary-tree"
   ],
   "Depth-First Search": [
     "leetcode/0104-maximum-depth-of-binary-tree",
     "leetcode/0110-balanced-binary-tree",
     "leetcode/0124-binary-tree-maximum-path-sum",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0100-same-tree"
+    "leetcode/0100-same-tree",
+    "leetcode/0226-invert-binary-tree"
   ],
   "DP on Trees": [
     "leetcode/0124-binary-tree-maximum-path-sum",

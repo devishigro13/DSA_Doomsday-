@@ -443,5 +443,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-14T14:51:29.122Z"
+  },
+  {
+    "folderId": "leetcode/0226-invert-binary-tree",
+    "frontendId": "226",
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-16T13:11:06.551Z"
   }
 ]
