@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**37** problems solved — 24 Easy · 12 Medium · 1 Hard
+**38** problems solved — 24 Easy · 13 Medium · 1 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
@@ -83,7 +84,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (12)
+### Medium (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -92,6 +93,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
@@ -159,13 +161,14 @@
 </details>
 
 <details>
-<summary>Binary Tree (9)</summary>
+<summary>Binary Tree (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
@@ -186,13 +189,14 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (5)</summary>
+<summary>Breadth-First Search (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 
@@ -395,13 +399,14 @@
 </details>
 
 <details>
-<summary>Tree (9)</summary>
+<summary>Tree (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
@@ -425,7 +430,7 @@
 ## By Language
 
 <details>
-<summary>cpp (36)</summary>
+<summary>cpp (37)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -436,6 +441,7 @@
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
@@ -481,6 +487,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-11-17 |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy | 2026-11-16 |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy | 2026-11-16 |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy | 2026-11-16 |
@@ -495,4 +502,3 @@
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | 2026-11-07 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-06 |
-| 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy | 2026-11-05 |

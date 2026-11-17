@@ -489,5 +489,19 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-16T18:57:22.755Z"
+  },
+  {
+    "folderId": "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "frontendId": "107",
+    "title": "Binary Tree Level Order Traversal II",
+    "slug": "binary-tree-level-order-traversal-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-17T05:14:06.728Z"
   }
 ]
