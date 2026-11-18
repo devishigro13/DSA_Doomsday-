@@ -503,5 +503,22 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-17T05:14:06.728Z"
+  },
+  {
+    "folderId": "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
+    "frontendId": "987",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "slug": "vertical-order-traversal-of-a-binary-tree",
+    "difficulty": "Hard",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-18T18:51:04.705Z"
   }
 ]

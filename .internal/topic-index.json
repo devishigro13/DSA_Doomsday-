@@ -20,12 +20,14 @@
   "Sorting": [
     "leetcode/2089-find-target-indices-after-sorting-array",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/3760-maximum-substrings-with-distinct-start"
+    "leetcode/3760-maximum-substrings-with-distinct-start",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "Binary Indexed Tree": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -106,7 +108,8 @@
     "leetcode/0226-invert-binary-tree",
     "leetcode/0112-path-sum",
     "leetcode/0257-binary-tree-paths",
-    "leetcode/0107-binary-tree-level-order-traversal-ii"
+    "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -114,7 +117,8 @@
     "leetcode/0100-same-tree",
     "leetcode/0226-invert-binary-tree",
     "leetcode/0112-path-sum",
-    "leetcode/0107-binary-tree-level-order-traversal-ii"
+    "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -126,7 +130,8 @@
     "leetcode/0226-invert-binary-tree",
     "leetcode/0112-path-sum",
     "leetcode/0257-binary-tree-paths",
-    "leetcode/0107-binary-tree-level-order-traversal-ii"
+    "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "Depth-First Search": [
     "leetcode/0104-maximum-depth-of-binary-tree",
@@ -136,7 +141,8 @@
     "leetcode/0100-same-tree",
     "leetcode/0226-invert-binary-tree",
     "leetcode/0112-path-sum",
-    "leetcode/0257-binary-tree-paths"
+    "leetcode/0257-binary-tree-paths",
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
   ],
   "DP on Trees": [
     "leetcode/0124-binary-tree-maximum-path-sum",

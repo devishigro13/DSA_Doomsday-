@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**38** problems solved — 24 Easy · 13 Medium · 1 Hard
+**39** problems solved — 24 Easy · 13 Medium · 2 Hard
 
 ## Contents
 
@@ -32,6 +32,7 @@
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
@@ -102,11 +103,12 @@
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) |  |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) |  |
 
-### Hard (1)
+### Hard (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree |
 
 ## By Topic
 
@@ -161,7 +163,7 @@
 </details>
 
 <details>
-<summary>Binary Tree (10)</summary>
+<summary>Binary Tree (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -175,6 +177,7 @@
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 
 </details>
 
@@ -189,7 +192,7 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (6)</summary>
+<summary>Breadth-First Search (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -199,6 +202,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 
 </details>
 
@@ -230,7 +234,7 @@
 </details>
 
 <details>
-<summary>Depth-First Search (8)</summary>
+<summary>Depth-First Search (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -242,6 +246,7 @@
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 
 </details>
 
@@ -276,11 +281,12 @@
 </details>
 
 <details>
-<summary>Hash Table (3)</summary>
+<summary>Hash Table (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium |
 
@@ -373,11 +379,12 @@
 </details>
 
 <details>
-<summary>Sorting (3)</summary>
+<summary>Sorting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
@@ -399,7 +406,7 @@
 </details>
 
 <details>
-<summary>Tree (10)</summary>
+<summary>Tree (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -413,6 +420,7 @@
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 
 </details>
 
@@ -430,7 +438,7 @@
 ## By Language
 
 <details>
-<summary>cpp (37)</summary>
+<summary>cpp (38)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -452,6 +460,7 @@
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -487,6 +496,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | 2026-11-18 |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-11-17 |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy | 2026-11-16 |
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy | 2026-11-16 |
@@ -501,4 +511,3 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
 | 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | 2026-11-07 |
-| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-06 |
