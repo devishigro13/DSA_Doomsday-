@@ -532,5 +532,19 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-19T06:21:57.086Z"
+  },
+  {
+    "folderId": "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "frontendId": "1509",
+    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-19T07:50:25.810Z"
   }
 ]

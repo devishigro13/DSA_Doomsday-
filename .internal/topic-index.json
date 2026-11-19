@@ -11,7 +11,8 @@
     "leetcode/1550-three-consecutive-odds",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
     "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
-    "leetcode/3364-minimum-positive-sum-subarray"
+    "leetcode/3364-minimum-positive-sum-subarray",
+    "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -21,7 +22,8 @@
     "leetcode/2089-find-target-indices-after-sorting-array",
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
+    "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
@@ -88,7 +90,8 @@
   ],
   "Greedy": [
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/3789-minimum-cost-to-acquire-required-items"
+    "leetcode/3789-minimum-cost-to-acquire-required-items",
+    "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves"
   ],
   "Backtracking": [
     "leetcode/0078-subsets",

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**40** problems solved — 24 Easy · 14 Medium · 2 Hard
+**41** problems solved — 24 Easy · 15 Medium · 2 Hard
 
 ## Contents
 
@@ -33,6 +33,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium | Array, Greedy, Sorting |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
@@ -86,7 +87,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (14)
+### Medium (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -97,6 +98,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Array, Greedy, Sorting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | String |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
@@ -115,13 +117,14 @@
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -273,10 +276,11 @@
 </details>
 
 <details>
-<summary>Greedy (2)</summary>
+<summary>Greedy (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium |
 
@@ -381,12 +385,13 @@
 </details>
 
 <details>
-<summary>Sorting (4)</summary>
+<summary>Sorting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
@@ -441,7 +446,7 @@
 ## By Language
 
 <details>
-<summary>cpp (39)</summary>
+<summary>cpp (40)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -464,6 +469,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -500,6 +506,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium | 2026-11-19 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | 2026-11-19 |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | 2026-11-18 |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-11-17 |
@@ -514,4 +521,3 @@
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy | 2026-11-09 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
-| 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
