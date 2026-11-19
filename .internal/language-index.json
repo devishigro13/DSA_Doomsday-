@@ -37,7 +37,8 @@
     "leetcode/0112-path-sum",
     "leetcode/0257-binary-tree-paths",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
-    "leetcode/0987-vertical-order-traversal-of-a-binary-tree"
+    "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
+    "leetcode/2914-minimum-number-of-changes-to-make-binary-string-beautiful"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"

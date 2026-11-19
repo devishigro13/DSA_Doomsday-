@@ -520,5 +520,17 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-18T18:51:04.705Z"
+  },
+  {
+    "folderId": "leetcode/2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+    "frontendId": "2914",
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "difficulty": "Medium",
+    "topics": [
+      "String"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-19T06:21:57.086Z"
   }
 ]

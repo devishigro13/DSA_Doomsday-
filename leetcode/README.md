@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**39** problems solved — 24 Easy · 13 Medium · 2 Hard
+**40** problems solved — 24 Easy · 14 Medium · 2 Hard
 
 ## Contents
 
@@ -39,6 +39,7 @@
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | String |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy | Array, String |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Array |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy | String |
@@ -85,7 +86,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (13)
+### Medium (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -97,6 +98,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | String |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Hash Table, String |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Math, Greedy |
 | 4089 | [Count Subarrays With Loose Bounds](4089-count-subarrays-with-loose-bounds/README.md) |  |
@@ -391,7 +393,7 @@
 </details>
 
 <details>
-<summary>String (7)</summary>
+<summary>String (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -399,6 +401,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/README.md) | Medium |
@@ -438,7 +441,7 @@
 ## By Language
 
 <details>
-<summary>cpp (38)</summary>
+<summary>cpp (39)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -466,6 +469,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium |
 | 2942 | [Find Words Containing Character](2942-find-words-containing-character/README.md) | Easy |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3110 | [Score of a String](3110-score-of-a-string/README.md) | Easy |
@@ -496,6 +500,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | 2026-11-19 |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | 2026-11-18 |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-11-17 |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy | 2026-11-16 |
@@ -510,4 +515,3 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | 2026-11-09 |
 | 0110 | [Balanced Binary Tree](0110-balanced-binary-tree/README.md) | Easy | 2026-11-08 |
-| 0104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/README.md) | Easy | 2026-11-07 |

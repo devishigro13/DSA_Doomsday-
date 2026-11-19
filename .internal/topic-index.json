@@ -58,7 +58,8 @@
     "leetcode/3760-maximum-substrings-with-distinct-start",
     "leetcode/2942-find-words-containing-character",
     "leetcode/3110-score-of-a-string",
-    "leetcode/0257-binary-tree-paths"
+    "leetcode/0257-binary-tree-paths",
+    "leetcode/2914-minimum-number-of-changes-to-make-binary-string-beautiful"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number",
