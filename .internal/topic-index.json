@@ -114,7 +114,8 @@
     "leetcode/0257-binary-tree-paths",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
     "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
-    "leetcode/0199-binary-tree-right-side-view"
+    "leetcode/0199-binary-tree-right-side-view",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -138,7 +139,8 @@
     "leetcode/0257-binary-tree-paths",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
     "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
-    "leetcode/0199-binary-tree-right-side-view"
+    "leetcode/0199-binary-tree-right-side-view",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "Depth-First Search": [
     "leetcode/0104-maximum-depth-of-binary-tree",
@@ -150,7 +152,8 @@
     "leetcode/0112-path-sum",
     "leetcode/0257-binary-tree-paths",
     "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
-    "leetcode/0199-binary-tree-right-side-view"
+    "leetcode/0199-binary-tree-right-side-view",
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ],
   "DP on Trees": [
     "leetcode/0124-binary-tree-maximum-path-sum",
@@ -161,5 +164,11 @@
   ],
   "Prefix Sum": [
     "leetcode/3364-minimum-positive-sum-subarray"
+  ],
+  "Binary Lifting": [
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
+  ],
+  "Lowest Common Ancestor": [
+    "leetcode/0236-lowest-common-ancestor-of-a-binary-tree"
   ]
 }

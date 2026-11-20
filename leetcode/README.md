@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**42** problems solved — 24 Easy · 16 Medium · 2 Hard
+**43** problems solved — 24 Easy · 17 Medium · 2 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy | String, Backtracking, Tree, Depth-First Search, Binary Tree |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
@@ -88,7 +89,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (16)
+### Medium (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -99,6 +100,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Array, Greedy, Sorting |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -160,6 +162,15 @@
 </details>
 
 <details>
+<summary>Binary Lifting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
@@ -170,7 +181,7 @@
 </details>
 
 <details>
-<summary>Binary Tree (12)</summary>
+<summary>Binary Tree (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -183,6 +194,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
@@ -243,7 +255,7 @@
 </details>
 
 <details>
-<summary>Depth-First Search (10)</summary>
+<summary>Depth-First Search (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -254,6 +266,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
@@ -318,6 +331,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0019 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Lowest Common Ancestor (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 
 </details>
 
@@ -419,7 +441,7 @@
 </details>
 
 <details>
-<summary>Tree (12)</summary>
+<summary>Tree (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -432,6 +454,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
@@ -452,7 +475,7 @@
 ## By Language
 
 <details>
-<summary>cpp (41)</summary>
+<summary>cpp (42)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -469,6 +492,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
@@ -513,6 +537,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-20 |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium | 2026-11-20 |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/README.md) | Medium | 2026-11-19 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | 2026-11-19 |
@@ -527,4 +552,3 @@
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
 | 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | 2026-11-11 |
 | 0100 | [Same Tree](0100-same-tree/README.md) | Easy | 2026-11-09 |
-| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-11-09 |

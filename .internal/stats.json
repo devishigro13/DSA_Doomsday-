@@ -1,8 +1,8 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "byDifficulty": {
     "Easy": 24,
-    "Medium": 16,
+    "Medium": 17,
     "Hard": 2
   },
   "currentStreak": 5,
@@ -35,6 +35,6 @@
     "2026-11-17": 1,
     "2026-11-18": 1,
     "2026-11-19": 3,
-    "2026-11-20": 1
+    "2026-11-20": 2
   }
 }
