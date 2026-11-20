@@ -546,5 +546,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-19T07:50:25.810Z"
+  },
+  {
+    "folderId": "leetcode/0199-binary-tree-right-side-view",
+    "frontendId": "199",
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-20T20:24:13.246Z"
   }
 ]

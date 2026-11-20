@@ -39,7 +39,8 @@
     "leetcode/0107-binary-tree-level-order-traversal-ii",
     "leetcode/0987-vertical-order-traversal-of-a-binary-tree",
     "leetcode/2914-minimum-number-of-changes-to-make-binary-string-beautiful",
-    "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves"
+    "leetcode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "leetcode/0199-binary-tree-right-side-view"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"
