@@ -577,5 +577,20 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-20T21:22:09.890Z"
+  },
+  {
+    "folderId": "leetcode/0662-maximum-width-of-binary-tree",
+    "frontendId": "662",
+    "title": "Maximum Width of Binary Tree",
+    "slug": "maximum-width-of-binary-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-21T10:07:54.197Z"
   }
 ]
