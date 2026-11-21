@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**44** problems solved — 24 Easy · 18 Medium · 2 Hard
+**45** problems solved — 25 Easy · 18 Medium · 2 Hard
 
 ## Contents
 
@@ -40,6 +40,7 @@
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy | Array |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy | Tree, Binary Tree |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -61,7 +62,7 @@
 
 ## By Difficulty
 
-### Easy (24)
+### Easy (25)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -77,6 +78,7 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Array |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Tree, Binary Tree |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Database |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -183,7 +185,7 @@
 </details>
 
 <details>
-<summary>Binary Tree (14)</summary>
+<summary>Binary Tree (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -201,6 +203,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree/README.md) | Medium |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy |
 
 </details>
 
@@ -446,7 +449,7 @@
 </details>
 
 <details>
-<summary>Tree (14)</summary>
+<summary>Tree (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -464,6 +467,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree/README.md) | Medium |
 | 0987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy |
 
 </details>
 
@@ -481,7 +485,7 @@
 ## By Language
 
 <details>
-<summary>cpp (43)</summary>
+<summary>cpp (44)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -511,6 +515,7 @@
 | 1550 | [Three Consecutive Odds](1550-three-consecutive-odds/README.md) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium |
@@ -544,6 +549,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy | 2026-11-21 |
 | 0662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree/README.md) | Medium | 2026-11-21 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-20 |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium | 2026-11-20 |
@@ -558,4 +564,3 @@
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-13 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
 | 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |
-| 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/README.md) | Medium | 2026-11-11 |

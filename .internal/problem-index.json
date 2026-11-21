@@ -592,5 +592,18 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-11-21T10:07:54.197Z"
+  },
+  {
+    "folderId": "leetcode/2236-root-equals-sum-of-children",
+    "frontendId": "2236",
+    "title": "Root Equals Sum of Children",
+    "slug": "root-equals-sum-of-children",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Binary Tree"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-11-21T10:17:44.213Z"
   }
 ]
