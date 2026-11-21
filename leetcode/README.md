@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**45** problems solved — 25 Easy · 18 Medium · 2 Hard
+**46** problems solved — 25 Easy · 19 Medium · 2 Hard
 
 ## Contents
 
@@ -26,6 +26,7 @@
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium | Binary Search, Bit Manipulation, Tree, Binary Tree |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy | String, Backtracking, Tree, Depth-First Search, Binary Tree |
@@ -92,7 +93,7 @@
 | 4088 | [Difference Between Peaks and Valleys](4088-difference-between-peaks-and-valleys/README.md) |  |
 | 4092 | [Binary Digit Score](4092-binary-digit-score/README.md) |  |
 
-### Medium (18)
+### Medium (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -103,6 +104,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Binary Search, Bit Manipulation, Tree, Binary Tree |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -175,17 +177,18 @@
 </details>
 
 <details>
-<summary>Binary Search (2)</summary>
+<summary>Binary Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>Binary Tree (15)</summary>
+<summary>Binary Tree (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -197,6 +200,7 @@
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
@@ -208,12 +212,13 @@
 </details>
 
 <details>
-<summary>Bit Manipulation (2)</summary>
+<summary>Bit Manipulation (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium |
 
 </details>
 
@@ -449,7 +454,7 @@
 </details>
 
 <details>
-<summary>Tree (15)</summary>
+<summary>Tree (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -461,6 +466,7 @@
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
@@ -485,7 +491,7 @@
 ## By Language
 
 <details>
-<summary>cpp (44)</summary>
+<summary>cpp (45)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -501,6 +507,7 @@
 | 0112 | [Path Sum](0112-path-sum/README.md) | Easy |
 | 0124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/README.md) | Hard |
 | 0199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/README.md) | Medium |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium |
 | 0226 | [Invert Binary Tree](0226-invert-binary-tree/README.md) | Easy |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium |
 | 0257 | [Binary Tree Paths](0257-binary-tree-paths/README.md) | Easy |
@@ -549,6 +556,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0222 | [Count Complete Tree Nodes](0222-count-complete-tree-nodes/README.md) | Medium | 2026-11-21 |
 | 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/README.md) | Easy | 2026-11-21 |
 | 0662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree/README.md) | Medium | 2026-11-21 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | 2026-11-20 |
@@ -563,4 +571,3 @@
 | 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/README.md) | Easy | 2026-11-14 |
 | 4102 | [Count Valid Substrings I](4102-count-valid-substrings-i/README.md) | Medium | 2026-11-13 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
-| 4106 | [Find Mismatched Segments Between Two Strings](4106-find-mismatched-segments-between-two-strings/README.md) | Medium | 2026-11-11 |

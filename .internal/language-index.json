@@ -43,7 +43,8 @@
     "leetcode/0199-binary-tree-right-side-view",
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree",
     "leetcode/0662-maximum-width-of-binary-tree",
-    "leetcode/2236-root-equals-sum-of-children"
+    "leetcode/2236-root-equals-sum-of-children",
+    "leetcode/0222-count-complete-tree-nodes"
   ],
   "mysql": [
     "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher"

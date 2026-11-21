@@ -16,7 +16,8 @@
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array",
-    "leetcode/0704-binary-search"
+    "leetcode/0704-binary-search",
+    "leetcode/0222-count-complete-tree-nodes"
   ],
   "Sorting": [
     "leetcode/2089-find-target-indices-after-sorting-array",
@@ -100,7 +101,8 @@
   ],
   "Bit Manipulation": [
     "leetcode/0078-subsets",
-    "leetcode/0090-subsets-ii"
+    "leetcode/0090-subsets-ii",
+    "leetcode/0222-count-complete-tree-nodes"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -117,7 +119,8 @@
     "leetcode/0199-binary-tree-right-side-view",
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree",
     "leetcode/0662-maximum-width-of-binary-tree",
-    "leetcode/2236-root-equals-sum-of-children"
+    "leetcode/2236-root-equals-sum-of-children",
+    "leetcode/0222-count-complete-tree-nodes"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -145,7 +148,8 @@
     "leetcode/0199-binary-tree-right-side-view",
     "leetcode/0236-lowest-common-ancestor-of-a-binary-tree",
     "leetcode/0662-maximum-width-of-binary-tree",
-    "leetcode/2236-root-equals-sum-of-children"
+    "leetcode/2236-root-equals-sum-of-children",
+    "leetcode/0222-count-complete-tree-nodes"
   ],
   "Depth-First Search": [
     "leetcode/0104-maximum-depth-of-binary-tree",
